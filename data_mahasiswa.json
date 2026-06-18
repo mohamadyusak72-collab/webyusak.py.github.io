@@ -1,0 +1,16 @@
+[
+    {
+        "nim": "2809813890",
+        "nama": "ipan",
+        "email": "email@test.com",
+        "jurusan": "Informatika",
+        "ipk": 3.0
+    },
+    {
+        "nim": "29293839",
+        "nama": "yunif",
+        "email": "email@test.com",
+        "jurusan": "Sistem Informasi",
+        "ipk": 3.0
+    }
+]
