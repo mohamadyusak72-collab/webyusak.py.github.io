@@ -51,7 +51,7 @@ def main():
     inject_css()
     
     if 'logged_in' not in st.session_state: st.session_state['logged_in'] = False
-    if 'data' not in st.session_state: st.session_state['data'] = load_data()
+    if 'data' not in st.session_state: st.session_state['data'] = ...
 
     if not st.session_state['logged_in']:
         st.title("🎓 Login Mahasiswa Academy")
